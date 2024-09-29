@@ -1,7 +1,7 @@
 # Excel-Project
 This Excel project analyzes data from Tech-Moms, focusing on applicants who have been assigned to cohorts. The dataset includes key information about these applicants, such as their household income, computer availability, employment status, salary range, relationship and marital status, race/ethnicity, and details about their children.
 
-Key questions addressed in the analysis include:
+##Key questions addressed in the analysis include:
 
 -Household Income: What is the household income of applicants assigned to a cohort?
 
